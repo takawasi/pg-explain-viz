@@ -86,6 +86,10 @@ EXPLAIN (ANALYZE, FORMAT JSON) SELECT * FROM users;
 pg-explain --json-input explain.json
 ```
 
+## More Tools
+
+See all dev tools: https://takawasi-social.com/en/
+
 ## License
 
 MIT
