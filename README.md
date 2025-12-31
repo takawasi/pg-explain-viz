@@ -1,5 +1,7 @@
 # pg-explain-viz
 
+> **Documentation**: https://takawasi-social.com/tools/pg-explain-viz/
+
 Visualize PostgreSQL EXPLAIN ANALYZE as ASCII tree.
 
 EXPLAIN, but readable.
